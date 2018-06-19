@@ -1,0 +1,17 @@
+{
+    "name": "ylfcat/catphp",
+    "description": "catphp is ylfcat presonal works and not completed.",
+    "keywords": ["php", "catphp"],
+    "homepage": "https://github.com/ylfrepos/catphp",
+    "license": ["Apache-2.0", "GPL-2.0+"],
+    "authors": [
+        {
+            "name": "ylfcat",
+            "homepage": "https://github.com/ylfrepos/catphp"
+        }
+    ],
+    "autoload": {
+        "files": ["catphp.php"]
+    },
+    "require": {}
+}
